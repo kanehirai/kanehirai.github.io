@@ -1,15 +1,3 @@
-新聞,#genre#
-TVBS新聞,https://youtu.be/A4FbB8UhNRs
-民視新聞,https://youtu.be/aF2Ow7QEsP8
-台視新聞,https://youtu.be/xL0ch83RAK8
-中視新聞,https://youtu.be/lSZZ3YRsW1w
-華視新聞,https://youtu.be/-pvROC_MdYM
-東森新聞,https://youtu.be/R2iMq5LKXco
-東森財經新聞,https://youtu.be/ABn_ccXn_jc
-三立LIVE新聞,https://youtu.be/4ZVUmEUFwaY
-三立iNEWS新聞,https://youtu.be/00TIvTFRcvM
-中天新聞,https://youtu.be/5tQBwbyQ-Fw
-公共電視,https://youtu.be/ED4QXd5xAco
 台湾,#genre#
 005CNN,tvbus://6hXWXCdb87JurbTRCHk5jcoQshcAbpEUto4UatTdMvGwpRhefph7Kw9HgUs2V
 006民视,tvbus://6GwMH4m2UbVfWAMzAs38fnm1rmpMyqrwkPtBFZdrZkiBsmBrmSeQYonMVKusd

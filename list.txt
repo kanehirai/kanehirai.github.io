@@ -1,5 +1,5 @@
 新聞,#genre#
-TVBS新聞,https://www.youtube.com/watch?v=A4FbB8UhNRs
+TVBS新聞,https://www.youtube.com/embed/A4FbB8UhNRs
 民視新聞,https://youtu.be/aF2Ow7QEsP8
 台視新聞,https://youtu.be/xL0ch83RAK8
 中視新聞,https://youtu.be/lSZZ3YRsW1w

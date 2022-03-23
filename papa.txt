@@ -1,221 +1,227 @@
-台灣rtmp,#genre#
-民視,rtmp://161.202.204.248/sat/tv051
-民視,rtmp://161.202.204.248/sat/tv052
-台視,rtmp://161.202.204.248/sat/tv071
-台視,rtmp://161.202.204.248/sat/tv072
-中視,rtmp://161.202.204.248/sat/tv091
-台視,rtmp://161.202.204.248/sat/tv092
-華視,rtmp://161.202.204.248/sat/tv111
-華視,rtmp://161.202.204.248/sat/tv112
-TVBS歡樂,rtmp://161.202.204.248/sat/tv421
-TVBS歡樂,rtmp://161.202.204.248/sat/tv422
-緯來日本,rtmp://161.202.204.248/sat/tv521
-緯來日本,rtmp://161.202.204.248/sat/tv522
-TVBS新聞,rtmp://161.202.204.248/sat/tv551
-TVBS新聞,rtmp://161.202.204.248/sat/tv552
-東森財經新聞,rtmp://161.202.204.248/sat/tv571
-東森財經新聞,rtmp://161.202.204.248/sat/tv572
-緯來育樂,rtmp://161.202.204.248/sat/tv701
-緯來育樂,rtmp://161.202.204.248/sat/tv702
-緯來體育,rtmp://161.202.204.248/sat/tv721
-緯來體育,rtmp://161.202.204.248/sat/tv722
-ELEVEN1,rtmp://161.202.204.248/sat/tv731
-ELEVEN1,rtmp://161.202.204.248/sat/tv732
-ELEVEN2,rtmp://161.202.204.248/sat/tv741
-ELEVEN2,rtmp://161.202.204.248/sat/tv742
-momo綜合,rtmp://161.202.204.248/sat/tv761
-東森超視,rtmp://161.202.204.248/sat/tv771
-東森超視,rtmp://161.202.204.248/sat/tv772
-博斯運動I,rtmp://161.202.204.248/sat/md021
-博斯運動I,rtmp://161.202.204.248/sat/md022
-ELEVEN+,rtmp://161.202.204.248/sat/md041
-ELEVEN+,rtmp://161.202.204.248/sat/md042
-ELEVEN2,rtmp://161.202.204.248/sat/md051
-ELEVEN2,rtmp://161.202.204.248/sat/md052
-有線18台,rtmp://161.202.204.248/sat/hk041
-有線18台,rtmp://161.202.204.248/sat/hk042
-民視,rtmp://59.124.75.153/sat/tv051
-民視,rtmp://59.124.75.153/sat/tv052
-台視,rtmp://59.124.75.153/sat/tv071
-台視,rtmp://59.124.75.153/sat/tv072
-中視,rtmp://59.124.75.153/sat/tv091
-台視,rtmp://59.124.75.153/sat/tv092
-華視,rtmp://59.124.75.153/sat/tv111
-華視,rtmp://59.124.75.153/sat/tv112
-TVBS歡樂,rtmp://59.124.75.153/sat/tv421
-TVBS歡樂,rtmp://59.124.75.153/sat/tv422
-緯來日本,rtmp://59.124.75.153/sat/tv521
-緯來日本,rtmp://59.124.75.153/sat/tv522
-TVBS新聞,rtmp://59.124.75.153/sat/tv551
-TVBS新聞,rtmp://59.124.75.153/sat/tv552
-東森財經新聞,rtmp://59.124.75.153/sat/tv571
-東森財經新聞,rtmp://59.124.75.153/sat/tv572
-緯來育樂,rtmp://59.124.75.153/sat/tv701
-緯來育樂,rtmp://59.124.75.153/sat/tv702
-緯來體育,rtmp://59.124.75.153/sat/tv721
-緯來體育,rtmp://59.124.75.153/sat/tv722
-ELEVEN1,rtmp://59.124.75.153/sat/tv731
-ELEVEN1,rtmp://59.124.75.153/sat/tv732
-ELEVEN2,rtmp://59.124.75.153/sat/tv741
-ELEVEN2,rtmp://59.124.75.153/sat/tv742
-momo綜合,rtmp://59.124.75.153/sat/tv761
-東森超視,rtmp://59.124.75.153/sat/tv771
-東森超視,rtmp://59.124.75.153/sat/tv772
-博斯運動I,rtmp://59.124.75.153/sat/md021
-博斯運動I,rtmp://59.124.75.153/sat/md022
-ELEVEN+,rtmp://59.124.75.153/sat/md041
-ELEVEN+,rtmp://59.124.75.153/sat/md042
-ELEVEN2,rtmp://59.124.75.153/sat/md051
-ELEVEN2,rtmp://59.124.75.153/sat/md052
-有線18台,rtmp://59.124.75.153/sat/hk041
-有線18台,rtmp://59.124.75.153/sat/hk042
-三立新聞,http://seb.sason.top/sc/sllive_fhd.m3u8
-東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
-民視新聞,http://seb.sason.top/sc/msxw_fhd.m3u8
+台灣,#genre#
+民視,rtmp://59.124.75.138/sat/tv051
+民視,http://seb.sason.top/ptv/ftv.php?id=ms
+台視,rtmp://59.124.75.157/sat/tv071
+中視,rtmp://59.124.75.157/sat/tv091
+華視,rtmp://59.124.75.157/sat/tv111
+三立台灣台,http://125.227.210.55:15714/VideoInput/play.ts
+三立都会,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8
+衛視中文台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw#http://212.95.133.2/tv/js.php?id=31
+民視台灣台,http://seb.sason.top/ptv/ftv.php?id=tw
+民視旅遊台,http://seb.sason.top/ptv/ftv.php?id=ly
+民視第一台,http://seb.sason.top/ptv/ftv.php?id=dy
+民視綜藝台,http://seb.sason.top/ptv/ftv.php?id=zy
+民視影劇台,http://seb.sason.top/ptv/ftv.php?id=yj
+TVBS歡樂,rtmp://59.124.75.157/sat/tv421
+原住民頻道,https://streamipcf.akamaized.net/live/_definst_/smil:live.smil/chunklist_b3000.m3u8?cuac=guest&cref=https%3A%2F%2Fwww.ipcf.org.tw%2F
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+緯來育樂,rtmp://59.124.75.157/sat/tv701
+緯來日本,rtmp://59.124.75.157/sat/tv771
+東森戲劇台,http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8
+中天娛樂,http://60.250.91.85:8585/.m3u8
+TVBS歡樂,rtmp://59.124.75.157/sat/tv421
+MoMo綜合台,rtmp://59.124.75.138/sat/tv761
+MoMo綜合台,rtmp://59.124.75.138:1935/sat/tv761
+台灣新聞,#genre#
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視新聞，http://seb.sason.top/sc/zsxw_fhd.m3u8
+民視新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ftvnews.m3u8
+民視新聞,mitv://ns2.hellotvvod.com:9906/0b0cb3a6e5534a4c8c32eada573dcbd7
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
-東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
-三立財經新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
-三立新聞,http://125.227.210.55:15589/VideoInput/play.ts
-中天娛樂,http://125.227.210.55:15796/VideoInput/play.ts
-三立台灣,http://125.227.210.55:15714/VideoInput/play.ts
-TVBS新聞,http://125.227.210.55:16329/VideoInput/play.ts
-東森戲劇,http://125.227.210.55:17524/VideoInput/play.ts
-緯來體育,http://125.227.210.55:18358/VideoInput/play.ts
-年代新聞,http://125.227.210.37:11055/VideoInput/play.ts
-非凡新聞,http://125.227.210.37:15078/VideoInput/play.ts
-東森洋片,http://125.227.210.37:18685/VideoInput/play.ts
-FOX MOVIES,http://60.251.59.179:8504/xoxo.m3u8
-FOX MOVIES,http://60.251.59.179:8506/xoxo.m3u8
-三立台灣,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
-三立都會,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
-大愛一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大愛二台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大愛三台,https://pulltv3.wanfudaluye.com/live/tv3.m3u8
-年代新聞,http://107.167.5.66:80/mylive/102/2050/index.m3u8
-非凡新聞,http://107.167.5.66:80/mylive/102/2058/index.m3u8
-壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
+三立Live新聞,http://xztv.putids.com:80/user/dl/llllwww.php?id=48
+三立Live新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setlivenews.m3u8
+三立INEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立財經新聞台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/setinews.m3u8
+三立財經新聞台,http://seb.sason.top/sc/slinews_fhd.m3u8
+TVBS新聞台,http://iptv.tvfix.org/hls/tvbsnews.m3u8#http://125.227.210.55:16329/VideoInput/play.ts#rtmp://59.124.75.157:1935/sat/tv551
 壹新聞,http://stream.nexttv.com.tw/n001/hd/live.m3u8
-中視新聞,http://185.207.176.189:8080/channels/tw-101/playlist.m3u8
-亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+壹新聞,http://stream.nexttv.com.tw/n001/playlist.m3u8
+年代新聞,http://211.23.114.106:8617/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
+寰宇新聞,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/hyxw.m3u8
+東森財經新聞,rtmp://59.124.75.138:1935/sat/tv571
+東森財經新聞,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+非凡新聞台,http://125.227.210.37:15078/VideoInput/play.ts
+亞洲新聞台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 台灣動畫,#genre#
-索尼動畫,https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8
-GOODTV-卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
-娛樂,http://125.210.152.21:9120/live/GQYL.m3u8
-功夫台,http://103.140.229.13/BOBO/bibi.php?id=21715386
-功夫台,http://ftp9524803.host166.gotoip4.cn/bilibili.php?id=21715386
-爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
+東森幼幼台,https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/ebcyoyo.m3u8
+海綿寶寶 ,http://txtest-xp2p.p2p.huya.com/1423782096-1423782096-6115097538950332416-2847687648-10057-A-0-1.xs
+貓和老鼠 ,http://txtest-xp2p.p2p.huya.com/1423782038-1423782038-6115097289842229248-2847687532-10057-A-0-1.xs
+哆啦A夢 ,http://txtest-xp2p.p2p.huya.com/1524418078-1524418078-6547325790441177088-3048959612-10057-A-0-1.xs
+蠟筆小新 ,http://txtest-xp2p.p2p.huya.com/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.xs
+成龍歷險記 ,http://txtest-xp2p.p2p.huya.com/1423787836-1423787836-6115122192062611456-2847699128-10057-A-0-1.xs
+路飛海盜 ,http://txtest-xp2p.p2p.huya.com/1199512045291-1199512045291-5223409117950902272-2399024214038-10057-A-0-1.xs
+爆笑蟲子 ,http://txtest-xp2p.p2p.huya.com/98282154-98282154-422118637210435584-3465852224-10057-A-0-1.xs
+中華小當家 ,http://txtest-xp2p.p2p.huya.com/1449588921-1449588921-6225937008338927616-2789274526-10057-A-0-1.xs
+小品 ,http://txtest-xp2p.p2p.huya.com/1449698104-1449698104-6226405945753206784-2847699140-10057-A-0-1.xs
+獅子王國 ,https://newcntv.qcloudcdn.com/asp/hls/850/0303000a/3/default/c2e7e767f3144bed959ef20b8b961fe5/850.m3u8
+倒霉特熊 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/87f87ba569c147e3805f80e4844d2de9/1200.m3u8
+反轉星球 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/3ccdecc7d6e341c1920ad4eac5d82f38/1200.m3u8
+雲朵媽媽 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/d8ad434c6b08421a927557a4d98da65c/1200.m3u8
+熊大熊二 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1733da751de64e6e910abda889d87a26/1200.m3u8
+熊大過年 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/7ae265653fe149069c3b53e31caaf060/1200.m3u8
+豬俠英雄 ,https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/0f03b08bc7b042358144617000fd2931/1200.m3u8
+體育直播,#genre#
+博斯魅力,rtmp://59.124.75.138/sat/md011
+愛爾達體育1,rtmp://59.124.75.157/sat/md021
+愛爾達體育2,rtmp://59.124.75.157/sat/md031
+ELEVEN體育,rtmp://59.124.75.138/sat/md041
+博斯運動2,rtmp://59.124.75.138/sat/md051
+緯來體育台,http://125.227.210.55:18358/VideoInput/play.ts
+FOX2體育,rtmp://59.124.75.157/sat/tv741
+籃球 ,http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
+籃球1 ,http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
+籃球2 ,http://txtest-xp2p.p2p.huya.com/1099531627800-1099531627800-85899448999215104-2199063379056-10057-A-0-1.xs
+籃球3 ,http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
+籃球4 ,http://txtest-xp2p.p2p.huya.com/1099531627793-1099531627793-85899418934444032-2199063379042-10057-A-0-1.xs
+籃球5 ,http://txtest-xp2p.p2p.huya.com/1099531739898-1099531739898-86380906243162112-2199063603252-10057-A-0-1.xs
+籃球6 ,http://txtest-xp2p.p2p.huya.com/1099531627793-1099531627793-85899418934444032-2199063379042-10057-A-0-1.xs
+籃球7 ,http://txtest-xp2p.p2p.huya.com/1099531739953-1099531739953-86381142466363392-2199063603362-10057-A-0-1.xs
+籃球8 ,http://txtest-xp2p.p2p.huya.com/1099531739788-1099531739788-86380433796759552-2199063603032-10057-A-0-1.xs
+籃球9 ,http://txtest-xp2p.p2p.huya.com/1099531627785-1099531627785-85899384574705664-2199063379026-10057-A-0-1.xs
+街波王子 ,http://txtest-xp2p.p2p.huya.com/1099531739790-1099531739790-86380442386694144-2199063603036-10057-A-0-1.xs
+斯諾克 ,http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
+WWE ,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
+MASFIGHT ,http://txtest-xp2p.p2p.huya.com/1099531739833-1099531739833-86380627070287872-2199063603122-10057-A-0-1.xs
+泰拳 ,http://txtest-xp2p.p2p.huya.com/1199546362707-1199546362707-5370801297354129408-2399092848870-10057-A-0-1.xs
+拳擊 ,http://txtest-xp2p.p2p.huya.com/0-0-0-2399123531982-10057-A-0-1.xs
+游泳 ,http://txtest-xp2p.p2p.huya.com/1099531627797-1099531627797-85899436114313216-2199063379050-10057-A-0-1.xs
+滑雪 ,http://txtest-xp2p.p2p.huya.com/1099531740059-1099531740059-86381597732896768-2199063603574-10057-A-0-1.xs
+棒球 ,http://txtest-xp2p.p2p.huya.com/1099531739891-1099531739891-86380876178391040-2199063603238-10057-A-0-1.xs
+冰球 ,http://txtest-xp2p.p2p.huya.com/1099531728919-1099531728919-86333751797219328-2199063581294-10057-A-0-1.xs
+皮划艇 ,http://txtest-xp2p.p2p.huya.com/1099531728523-1099531728523-86332050990170112-2199063580502-10057-A-0-1.xs
+賽車 ,http://txtest-xp2p.p2p.huya.com/1447756351-1447756351-6218066180121296896-2895636158-10057-A-0-1.xs
+摩托車 ,http://txtest-xp2p.p2p.huya.com/1099531728928-1099531728928-86333790451924992-2199063581312-10057-A-0-1.xs
+體育賽場 ,http://txtest-xp2p.p2p.huya.com/1099531627962-1099531627962-85900144783917056-2199063379380-10057-A-0-1.xs
+第一賽場 ,http://txtest-xp2p.p2p.huya.com/1099531739778-1099531739778-86380390847086592-2199063603012-10057-A-0-1.xs
+久事賽事 ,http://txtest-xp2p.p2p.huya.com/2452891977-2452891977-10535090821835784192-4905907410-10057-A-0-1.xs
+足球 ,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
+國足1 ,http://txtest-xp2p.p2p.huya.com/1099531627955-1099531627955-85900114719145984-2199063379366-10057-A-0-1.xs
+國足2 ,http://txtest-xp2p.p2p.huya.com/1099531627791-1099531627791-85899410344509440-2199063379038-10057-A-0-1.xs
+歐足1 ,http://txtest-xp2p.p2p.huya.com/1099531728511-1099531728511-86331999450562560-2199063580478-10057-A-0-1.xs
+歐足2 ,http://txtest-xp2p.p2p.huya.com/1099531740188-1099531740188-86382151783677952-2199063603832-10057-A-0-1.xs
+足球1 ,http://txtest-xp2p.p2p.huya.com/1099531739787-1099531739787-86380429501792256-2199063603030-10057-A-0-1.xs
+足球2 ,http://txtest-xp2p.p2p.huya.com/1099531728837-1099531728837-86333399609901056-2199063581130-10057-A-0-1.xs
+足球3 ,http://txtest-xp2p.p2p.huya.com/1099531728827-1099531728827-86333356660228096-2199063581110-10057-A-0-1.xs
+足球4 ,http://txtest-xp2p.p2p.huya.com/1099531728830-1099531728830-86333369545129984-2199063581116-10057-A-0-1.xs
+足球5 ,http://txtest-xp2p.p2p.huya.com/1099531728828-1099531728828-86333360955195392-2199063581112-10057-A-0-1.xs
+足球6 ,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063581160-10057-A-0-1.xs
+足球7 ,http://txtest-xp2p.p2p.huya.com/1199525662714-1199525662714-5281895504391700480-2399051448884-10057-A-0-1.xs
+安迪 ,http://txtest-xp2p.p2p.huya.com/1199558189988-1199558189988-5421599082449731584-2399116503432-10057-A-0-1.xs
+阿猿 ,http://txtest-xp2p.p2p.huya.com/1607097648-1607097648-6902431839638519808-3214318752-10057-A-0-1.xs
+悅悅 ,http://txtest-xp2p.p2p.huya.com/1199536102461-1199536102461-5326733876335214592-2399072328378-10057-A-0-1.xs
+1場 ,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580964-10057-A-0-1.xs
+2場 ,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580966-10057-A-0-1.xs
+3場 ,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580968-10057-A-0-1.xs
+4場 ,http://txtest-xp2p.p2p.huya.com/0-0-0-2199063580970-10057-A-0-1.xs
+雲賽場 ,http://txtest-xp2p.p2p.huya.com/1099531627815-1099531627815-85899513423724544-2199063379086-10057-A-0-1.xs
+東亞聯賽 ,http://txtest-xp2p.p2p.huya.com/1099531728545-1099531728545-86332145479450624-2199063580546-10057-A-0-1.xs
+斯諾克1 ,http://txtest-xp2p.p2p.huya.com/1099531627777-1099531627777-85899350214967296-2199063379010-10057-A-0-1.xs
+斯諾克2 ,http://txtest-xp2p.p2p.huya.com/1099531739995-1099531739995-86381322854989824-2199063603446-10057-A-0-1.xs
+丁俊暉 ,http://txtest-xp2p.p2p.huya.com/1447756352-1447756352-6218066184416264192-2895636160-10057-A-0-1.xs
+奧沙利文 ,http://txtest-xp2p.p2p.huya.com/1099531627956-1099531627956-85900119014113280-2199063379368-10057-A-0-1.xs
+希金斯 ,http://txtest-xp2p.p2p.huya.com/35184375097421-0-0-2199063379180-10057-A-0-1.xs
+塞爾比 ,http://txtest-xp2p.p2p.huya.com/1099531627779-1099531627779-85899358804901888-2199063379014-10057-A-0-1.xs
+特魯姆普 ,http://txtest-xp2p.p2p.huya.com/1099531627782-1099531627782-85899371689803776-2199063379020-10057-A-0-1.xs
+羅伯遜 ,http://txtest-xp2p.p2p.huya.com/1099531627945-1099531627945-85900071769473024-2199063379346-10057-A-0-1.xs
+星辰 ,http://txtest-xp2p.p2p.huya.com/1677421524-1677421524-7204470587186479104-3354966504-10057-A-0-1.xs
+虞昉 ,http://txtest-xp2p.p2p.huya.com/1199564080362-1199564080362-5446898046140940288-2399128284180-10057-A-0-1.xs
+百嘉 ,http://txtest-xp2p.p2p.huya.com/1199549221152-1199549221152-5383078225146544128-2399098565760-10057-A-0-1.xs
+一諾 ,http://txtest-xp2p.p2p.huya.com/1486343265-1486343265-6383795713804861440-2972809986-10057-A-0-1.xs
+1桌 ,http://txtest-xp2p.p2p.huya.com/1099531739754-1099531739754-86380287767871488-2199063602964-10057-A-0-1.xs
+2桌 ,http://txtest-xp2p.p2p.huya.com/1099531739755-1099531739755-86380292062838784-2199063602966-10057-A-0-1.xs
+3桌 ,http://txtest-xp2p.p2p.huya.com/1099531627961-1099531627961-85900140488949760-2199063379378-10057-A-0-1.xs
+4桌 ,http://txtest-xp2p.p2p.huya.com/1099531627930-1099531627930-85900007344963584-2199063379316-10057-A-0-1.xs
+5桌 ,http://txtest-xp2p.p2p.huya.com/1099531627780-1099531627780-85899363099869184-2199063379016-10057-A-0-1.xs
+6桌 ,http://txtest-xp2p.p2p.huya.com/1099531627932-1099531627932-85900015934898176-2199063379320-10057-A-0-1.xs
+7桌 ,http://txtest-xp2p.p2p.huya.com/1099531627879-1099531627879-85899788301631488-2199063379214-10057-A-0-1.xs
+WWE1 ,http://txtest-xp2p.p2p.huya.com/1099531627799-1099531627799-85899444704247808-2199063379054-10057-A-0-1.xs
+WWE2 ,http://txtest-xp2p.p2p.huya.com/1099531627786-1099531627786-85899388869672960-2199063379028-10057-A-0-1.xs
+SD ,http://txtest-xp2p.p2p.huya.com/1099531728842-1099531728842-86333421084737536-2199063581140-10057-A-0-1.xs
+RAW ,http://txtest-xp2p.p2p.huya.com/1099531728841-1099531728841-86333416789770240-2199063581138-10057-A-0-1.xs
+巨石強森 ,http://txtest-xp2p.p2p.huya.com/1099531728843-1099531728843-86333425379704832-2199063581142-10057-A-0-1.xs
+頂級大賽 ,http://txtest-xp2p.p2p.huya.com/1099531728840-1099531728840-86333412494802944-2199063581136-10057-A-0-1.xs
+視頻秀 ,http://txtest-xp2p.p2p.huya.com/1099531728847-1099531728847-86333442559574016-2199063581150-10057-A-0-1.xs
+浪浪伐 ,http://txtest-xp2p.p2p.huya.com/1844764072-1844764072-7923201358075789312-3689651600-10057-A-0-1.xs
+老李頭 ,http://txtest-xp2p.p2p.huya.com/2328693602-2328693602-10001662862994440192-4657510660-10057-A-0-1.xs
+微風 ,http://txtest-xp2p.p2p.huya.com/2363304929-2363304929-10150317380530601984-4726733314-10057-A-0-1.xs
+李科學 ,http://txtest-xp2p.p2p.huya.com/138106415-138106415-593162535792803840-276336286-10057-A-0-1.xs
 電影,#genre#
-緯來電影,rtmp://202.39.64.233/channel/60b4e50239e1b02e8b910c8c?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-龍祥時代,rtmp://202.39.64.233/channel/60c2474a961593122ebaf7b5?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-FOX動作電影,rtmp://118.163.221.79/channel/60c2f6ca961593122ebaf8dc?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-中视新闻,rtmp://45.88.148.122/channel/60b4e50239e1b02e8b910d58?sign=mcnHvuVPiT02cz%2F3BKScZixxpsjm297vC8HpmMQ2fS0%3D
-台灣198,#genre#
-迪士尼HD,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-Babytv,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-尼克JR,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-HBO台湾,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-翡翠台,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-鳳凰香港台,http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
-Kids TV,http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
-TLC旅游生活,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
-HBO原創電影,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-FOX家庭電影,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-Astro华丽,http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
-Astro欢喜,http://198.16.106.62:8278/streams/d/Huahee/playlist.m3u8
-FOX犯罪電影,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOX動作電影,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-ELTA綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
-ELTA影劇台,http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
-ELTA體育台,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-Nick Jr,http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
-Luxe TV,http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
-CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Food亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-MTV Live,http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
-ELTA体育3台,http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
-astor AOD,http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
-Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
-Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
-Discovery Eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
-NatGeo_People,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
-Disney Channel,http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-p5p,#genre#
-寰宇新聞,p5p://45.92.126.18:9906/60434bdc0009a41d06d32342bef082c3.ts
-年代新聞,p5p://45.92.126.18:9906/60434d73000091e406d956c8607013df.ts
-東森新聞,p5p://45.92.126.18:9906/60434e0b0003696e06dba942fc6b06e1.ts
-三立新聞,p5p://45.92.126.18:9906/604351bb000723c406ea11b7e2f757c8.ts
-非凡新聞,p5p://45.92.126.18:9906/6044966b0006d57a01fe7633c96a5506.ts
-三立新闻,p5p://fccs.123178.top:9906/604351bb000723c406ea11b7e2f757c8.ts
-三立台湾台,p5p://fccs.123178.top:9906/60435a1000013bcc070a9c3b0ad870c7.ts
-中视HD,p5p://fccs.123178.top:9906/60448622000d89b401bedac2a3be746c.ts
-中视新闻,p5p://fccs.123178.top:9906/604487e700053cde01c5c22abcaf0467.ts
-东森综合,p5p://fccs.123178.top:9906/60449d64000d9a930219b4972f368e8b.ts
-东森超视,p5p://fccs.123178.top:9906/60449b4f000e1ebf021192b074519d04.ts
-东森电影,p5p://fccs.123178.top:9906/60449ece0009c6ea021f39ac30bce072.ts
-东风卫视,p5p://fccs.123178.top:9906/604640af000dbd7a087f919857110af4.ts
-民视,p5p://fccs.123178.top:9906/6043597b000602c20708576dff009975.ts
-民视台湾台,p5p://fccs.123178.top:9906/6044825e000bd32801b024b2f4ff7f01.ts
-民视第一台,p5p://fccs.123178.top:9906/604482f700022b0f01b277e16acd3ba1.ts
-纬来戏剧,p5p://fccs.123178.top:9906/6044a124000716e6022858ec2ddd7840.ts
-纬来日本,p5p://fccs.123178.top:9906/6044a02c000bf3c30224916a373cdb2c.ts
-纬来综合,p5p://fccs.123178.top:9906/6045be33000be06a0681dcbdb39f2973.ts
-纬来育乐,p5p://fccs.123178.top:9906/6044a24900005a2c022ccfba89cc1d77.ts
-纬来电影,p5p://fccs.123178.top:9906/6045bc330008915e067a0be52c863eff.ts
-纬来体育,p5p://fccs.123178.top:9906/6044a3c3000d96e6023297aef85769a2.ts
-华视体育,p5p://fccs.123178.top:9906/60448b33000df9b601d2a54784a00d4b.ts
-卫视西片,p5p://fccs.123178.top:9906/604416620003377d000a521e160e3141.ts
-星卫电影,p5p://fccs.123178.top:9906/6044d33b0006a70302ec02a7d10a2600.ts
-霹雳台湾,p5p://fccs.123178.top:9906/60443eff000b560c00a8f97ad079a022.ts
-龙华偶像,p5p://fccs.123178.top:9906/60442ac30006b54f0059edebe8733672.ts
-龙华影剧,p5p://fccs.123178.top:9906/604347a3000cc1fe06c2a567b371c0d6.ts
-龙华戏剧,p5p://fccs.123178.top:9906/60442a110002751300573584bb335a71.ts
-龙华电影,p5p://fccs.123178.top:9906/604426fa000c13eb004b26236e73affa.ts
-龙华动画,p5p://fccs.123178.top:9906/6044594300037550010f9116e9856cd9.ts
-国兴卫视,p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts
-TVBS高清,p5p://0198.02686.cc:16871/5f2f921c0007177d224bec7d6634f95e.ts
-TVBS新闻,p5p://0198.02686.cc:16871/5db05ca40003699da50b30c835589bf5.ts
-TVBS欢乐,p5p://0198.02686.cc:16871/5dbad7cb0007c9accdfc423fb19c38d1.ts
-台视高清,p5p://0198.02686.cc:16871/5f2e53b0000e6e031d70187e387dbafc.ts
-民视高清,p5p://0198.02686.cc:16871/5d8f08b60007eeea22db58419a492c10.ts
-中视高清,p5p://0198.02686.cc:16871/5f3656bb000a656c3cbbfa6d262e3d24.ts
-八大综合,p5p://0198.02686.cc:16871/5f2e5a5b0000b78e1d8a20f34de5f2ac.ts
-纬来综合,p5p://0198.02686.cc:16871/5f2e576a000315281d7ea426671c8418.ts
-国家悠人,p5p://0198.02686.cc:16871/5f37d0fb00088f51428183f5a24c108a.ts
-纬来体育,p5p://0198.02686.cc:16871/5f380f20000a96e143744502c1b95f9e.ts
-罪案侦探,p5p://0198.02686.cc:16871/5f37c7ab0006a300425d22f785b390d0.ts
-韩国娱乐,p5p://0198.02686.cc:16871/5f37e3320006cbf642c8aa594b534295.ts
-NBA体育,p5p://0198.02686.cc:16871/5f37fa45000952ee4322cd372e7f83d7.ts
-华纳电影,p5p://0198.02686.cc:16871/5f38036c000adb5e43468df4826231f4.ts#
-东森戏剧,p5p://0198.02686.cc:16871/5f2e5ed20008e6ef1d9b93e3bf1b4576.ts
-纬来戏剧,p5p://0198.02686.cc:16871/5e0f37bd00040a5217930a9af969bce1.ts
-纬来电影,p5p://0198.02686.cc:16871/5d1a69ce0005e8e911be435423cf0509.ts
-台灣50,#genre#
-astro港剧,http://50.7.161.82:8277/streams/d/aod_pye/playlist.m3u8
-天映频道,http://50.7.161.82:8277/streams/d/celestial_pye/playlist.m3u8
-天映频道,http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+東森電影,http://itv.my.to/gd/?id=58&play=2
+龍翔時代,http://itv.my.to/gd?id=38&play=2
+龍翔時代,mitv://ns2.hellotvvod.com:9906/b55f3db64b8548d7967475fc4133128a
+美亞電影,mitv://ns2.hellotvvod.com:9906/893a1a9d8b3a4efa8b26e0e89f996bb5
+東森洋片台,http://125.227.210.37:18685/VideoInput/play.ts
+東森台戲劇,http://125.227.210.55:17524/VideoInput/play.ts
+國外頻道,#genre#
 天映經典,http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
-双星,http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-全佳,http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
+娛樂,http://125.210.152.21:9120/live/GQYL.m3u8
+亞洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+愛爾達綜合台,http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+Nickelodeon,http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+Baby TV Eng,http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+CBeebies,http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+Disney Junior,http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+儒釋道經,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+儒釋道經,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+華藏衛視,http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+GOODTV復興禱告,https://dqhxk7sbp7xog.cloudfront.net/osmflivech38.m3u8
+GOODTV好消息卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+GOOD TV2,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+GOOD TV2,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch2-2.m3u8
+GOODTV道在人間HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch21-2.m3u8
+GOODTV道在人間HD,https://dqhxk7sbp7xog.cloudfront.net/osmflivech2.m3u8
+GOODTV讀書會HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch10-2.m3u8
+GOODTV福氣人生HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch25-2.m3u8
+GOODTV共享觀點HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch19-2.m3u8
+GOODTV共享觀點HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch5-2.m3u8
+GOODTV好消息HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+GOODTV好消息HD,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+GOODTV好消息HD,http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+GOODTV好醫生HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch9-2.m3u8
+GOODTV基督教HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch16-2.m3u8
+GOODTV健康HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3u8
+GOODTV經典音樂河HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+GOODTV空中聖經醫院HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch27-2.m3u8
+GOODTV空中主日學HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch23-2.m3u8
+GOODTV空中主日學HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch26-2.m3u8
+GOODTV劉三講古HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch24-2.m3u8
+GOODTV旅行HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+GOODTV天堂敬拜HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch30-2.m3u8
+GOODTV天堂敬拜HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch28-2.m3u8
+GOODTV聽我唱HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch31-2.m3u8
+GOODTV維他命HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch12-2.m3u8
+GOODTV新視野HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch22-2.m3u8
+GOODTV幸福學堂HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch8-2.m3u8
+GOODTV耶穌HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch17-2.m3u8
+GOODTV迎接復興HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch7-2.m3u8
+GOODTV展翅上騰HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch18-2.m3u8
+GOODTV真情部落格HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch3-2.m3u8
+GOODTV真情部落格HD,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
 TV8,http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
+TV2,http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 BOO,http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
-HBO,http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-小太阳,http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
-台灣冷門頻道,#genre#
-原住民台,http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-國度新聞,https://vod.streamingfast.net/hls-vod/video/1200k/NW1A0180_1200k.mp4.m3u8
-唯心電視,https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
+TVN-亞洲,http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
+Astro-愛奇藝,http://50.7.161.82:8278/streams/d/iqiyi_pye/playlist.m3u8
+CNN-新聞,https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+FOX-生活,https://livecdn.fptplay.net/foxlive/foxlifehd_2000.stream/chunklist.m3u8
+OHK,http://50.7.161.82:8277/streams/d/ohk_pye/playlist.m3u8
+OHK,http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+WWE,http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+GOODTV-綜合,https://dqhxk7sbp7xog.cloudfront.net/osmflivech1.m3u8
+國家地理,https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+航天頻道,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
+最新電影點播頻道,#genre#
+2021尚氣與十環傳奇,https://sod.bunediy.com/20211110/MpyfWo6r/index.m3u8
+2021猛毒2：血蜘蛛,https://sod.bunediy.com/20211111/56GUOks3/index.m3u8
+2021火線突圍,https://new.iskcd.com/20210903/SWpImSm6/index.m3u8
+2021刺客密令,https://c1.monidai.com/20210830/g1VQqvME/index.m3u8
+2021當男人戀愛時,https://s1.haofajz.com/20210820/WEQRQvuF/index.m3u8
+2021咒術屍戰,https://sod.bunediy.com/20210813/FMsmJsO5/index.m3u8
+2021自煞突擊隊集結,https://sod.bunediy.com/20210806/zhCJwweF/index.m3u8
+2021玩命關頭9,https://sod.bunediy.com/20210801/jS39LVvB/index.m3u8
+2021蛇王島,https://n1.szjal.cn/20210721/4IasNTck/index.m3u8
+2021午夜的柳枝,https://vod.cdbaiyou.com/20210719/j10FInJL/index.m3u8

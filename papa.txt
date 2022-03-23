@@ -17,7 +17,7 @@ MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 MoMo綜合台,rtmp://59.124.75.138:1935/sat/tv761
 台灣新聞,#genre#
 台視新聞,http://seb.sason.top/sc/tsxw_fhd.m3u8
-中視新聞，http://seb.sason.top/sc/zsxw_fhd.m3u8
+中視新聞,http://seb.sason.top/sc/zsxw_fhd.m3u8
 中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
 東森新聞,http://seb.sason.top/sc/dsxw_fhd.m3u8
 三立INEWS,http://seb.sason.top/sc/slinews_fhd.m3u8

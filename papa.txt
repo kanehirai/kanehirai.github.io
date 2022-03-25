@@ -36,7 +36,7 @@ ELEVEN體育,rtmp://59.124.75.138/sat/md041
 博斯運動2,rtmp://59.124.75.138/sat/md051
 緯來體育台,http://125.227.210.55:18358/VideoInput/play.ts
 FOX2體育,rtmp://59.124.75.157/sat/tv741
-= 未分组 =
+未分組,#genre#
 台視,http://59.125.101.187/playlist.m3u8
 東森YOYO,http://59.125.101.187:8506/playlist.m3u8
 東森YOYO,http://59.125.101.187:8515/playlist.m3u8

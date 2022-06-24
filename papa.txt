@@ -1032,49 +1032,8 @@ CHC高清電影,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/
       廣東體育,mitv://ns2.hellotvvod.com:9906/cf4d0003218f4675816f63888120bef9
       CCTV16,mitv://ns2.hellotvvod.com:9906/ec15893685644fab88626eadd3a4dee7
       廣東影視,mitv://ns2.hellotvvod.com:9906/9f7e51f8e6964f84a9626f10da02d2a6
-  港澳,#genre#
-      港台电视31,mitv://ns2.hellotvvod.com:9906/7f22eafaa4ab454fba903412e4067a22
-      港台電視32,mitv://ns2.hellotvvod.com:9906/5b6b6f6104ba4f26b84aa40afeacbc51
-      香港開電視,mitv://ns2.hellotvvod.com:9906/dbafc4bc41d542e6b70d0fbf597b7e94
+  港澳,#genre#  
       ﻿翡翠台(備),mitv://ns2.hellotvvod.com:9906/61ab74d2000c56d914e7a7702f0c341f\t
-      J2,mitv://ns2.hellotvvod.com:9906/296659ec1bc74690bc28f204061f5980
-      無綫新聞台(備),mitv://ns2.hellotvvod.com:9906/8d62a1f8cafd43c5bbb7404d13fa81ef
-      無綫新聞台,mitv://ns2.hellotvvod.com:9906/f658e83b6c104ecdb41558e6a4b14713
-      無綫財經·資訊台,mitv://ns2.hellotvvod.com:9906/22a5b868769045f2a3544d16408a7cd2
-      ViuTVsix,mitv://ns2.hellotvvod.com:9906/8c538cb0ba4d4ed7ab9b1ec73665f18e
-      ViuTV,mitv://ns2.hellotvvod.com:9906/532e5dc3f242485eadc28794ae0dd11e
-      鳳凰中文台,mitv://ns2.hellotvvod.com:9906/065d163a64644df5b551a524cd4aafe3
-      鳳凰資訊台,mitv://ns2.hellotvvod.com:9906/7e662fe16a1c49f6981aa0f9039f8d22
-      鳳凰香港台,mitv://ns2.hellotvvod.com:9906/2fe2835d32a2468290e178407da446ce
-      TVB星河(粵),mitv://ns2.hellotvvod.com:9906/994b859077774de9955e984db6f1bb72
-      陽光衛視,mitv://ns2.hellotvvod.com:9906/b3f2ad98164b48669e7037da9711a7d4
-      澳門-MACAU,mitv://ns2.hellotvvod.com:9906/8827d7c88cfc46889206e18fef74fd0c
-      澳門蓮花,mitv://ns2.hellotvvod.com:9906/422f1e2ea9e546309ed8ede343723220
-      now新聞台,mitv://ns2.hellotvvod.com:9906/241fa175fb7f4c5ab30cc8946f81c5e3
-      now直播台,mitv://ns2.hellotvvod.com:9906/47f87ebf326d432887ee070944f98e47
-      HKC電影台,mitv://ns2.hellotvvod.com:9906/f1fbc1581f19430c902d2b593462ff8f
-      鳳凰電影台,mitv://ns2.hellotvvod.com:9906/000db1fd72994ae7908e51483bf71bdd
-      HKC新聞台,mitv://ns2.hellotvvod.com:9906/ae404faedbd249f6b8c0c835c0d27975
-      HKC財經資訊台,mitv://ns2.hellotvvod.com:9906/80f28a955ee8490f9fcd98a89757a10b
-      HKC 18,mitv://ns2.hellotvvod.com:9906/ec04cc1dde974cc7869063e0e7fb013f
-      HKC 603,mitv://ns2.hellotvvod.com:9906/f3ddb3c505164578a1112026eb209d40
-      HKC体育台,mitv://ns2.hellotvvod.com:9906/e3c1d8827e0c4d30b440a11b2fa1eddf
-      HKC Sports Plus 1,mitv://ns2.hellotvvod.com:9906/4c40e3be847a45ad895f3e3f5b84c2ed
-      HKC綜合娛樂台,mitv://ns2.hellotvvod.com:9906/a0719aa0b4304f0fb815a30e8fe5fbd0
-      TVB娛樂新聞台,mitv://ns2.hellotvvod.com:9906/5ae608511e934cc4b79d3902f5d7095b
-      翡翠台,mitv://ns2.hellotvvod.com:9906/432ca0bf82d0442fb1804e9e0c523325
-      TVB經典台,mitv://ns2.hellotvvod.com:9906/9f039cf3568941af861bba2371e68983
-      Thrill,mitv://ns2.hellotvvod.com:9906/e8239817caf44d86be0927bc325dde6c
-      明珠台,mitv://ns2.hellotvvod.com:9906/788a51829c224e46b17c16854a3da970
-      18台,mitv://ns2.hellotvvod.com:9906/ead84aefd2964dd2aa0761cc2c3ab6c7
-      爆谷星影台,mitv://ns2.hellotvvod.com:9906/4103f70ce5514fac9c9e8df4da8bcb62
-      美亞電影台(粵語),mitv://ns2.hellotvvod.com:9906/576692ca8c8f41ebba3dc14b183f87ab
-      Hands Up,mitv://ns2.hellotvvod.com:9906/101b520936a84507a52fd7c3bdb9b39d
-      粵語片台,mitv://ns2.hellotvvod.com:9906/5fb27480fc284478a926d5c52407c104
-      亞洲劇台,mitv://ns2.hellotvvod.com:9906/257d02a6760d4941a5b6ea083d8e67af
-      功夫台,mitv://ns2.hellotvvod.com:9906/8d4067e6671345f782aba01f46fa0bb8
-      直播台,mitv://ns2.hellotvvod.com:9906/33e070d3631c48f28a4a76a39c58b930
-      爆谷台,mitv://ns2.hellotvvod.com:9906/9dc346998d78436ca731179cea5beedb
   馬來西亞,#genre#
       CNN,mitv://ns2.hellotvvod.com:9906/def43e83134342b98955b617c1a310ec
       TV1,mitv://ns2.hellotvvod.com:9906/a91dd6509adb41ada2e9531995873ffe

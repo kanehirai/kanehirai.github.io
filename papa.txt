@@ -501,6 +501,107 @@ ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731#rtmp://219.80.97.35/sat/tv731
 ELEVEN2,rtmp://219.80.97.35/sat/tv741#rtmp://59.124.75.138:1935/sat/tv741
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 
+杂项,#genre#
+Good T[1920*1080],http://ye23.win/iptv/korea2021.php?id=Good
+cpb[720*404],http://ye23.win/iptv/korea2021.php?id=cpbc
+bbst[1920*1080],http://ye23.win/iptv/korea2021.php?id=bbstv
+MT[720*480],http://ye23.win/iptv/korea2021.php?id=MTN
+FT[640*360],http://ye23.win/iptv/korea2021.php?id=FTV
+Channel[1280*720],http://ye23.win/iptv/korea2021.php?id=Channela
+Channel[1280*720],http://ye23.win/iptv/korea2021.php?id=Channel
+TB[1280*720],http://ye23.win/iptv/korea2021.php?id=TBS-a
+KCT[1280*720],http://ye23.win/iptv/korea2021.php?id=KCTV
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS1
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS2
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBSi
+EBS+[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_2
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_E
+EBS KID[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+dem[1920*1080],http://ye23.win/iptv/korea2021.php?id=dema
+wakuwaku[1920*1080],http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
+东森幼幼台[1920*1080],http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
+三立都会台[1920*1080],http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
+龙华日韩台[1920*1080],http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龙华卡通[1920*1080],http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
+CNBCHongKong[1920*1080],http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
+wakuwaku[1920*1080],http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03.m3u8
+东森幼幼台[1920*1080],http://59.125.101.187:8515/http/192.168.77.24:8088/hls/63/805/ch09.m3u8
+三立都会台[1920*1080],http://59.125.101.187:8522/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
+龙华日韩台[1920*1080],http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
+龙华卡通[1920*1080],http://59.125.101.187:8528/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
+中天娱乐台[1920*1080],http://60.250.91.85:8585/.m3u8
+TLC旅游生活频道[1920*1080],http://60.250.91.85:8589/.m3u8
+CINEMAX[1920*1080],http://60.250.91.85:8590/.m3u8
+Discovery[1920*1080],http://60.250.91.85:8588/.m3u8
+原住民频道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+民视[1280*720],rtmp://59.124.75.138/sat/tv051
+台视[1280*720],rtmp://59.124.75.138/sat/tv071
+中视[1280*720],rtmp://59.124.75.138/sat/tv091
+华视[1280*720],rtmp://59.124.75.138/sat/tv111
+TVBS欢乐台[1280*720],rtmp://59.124.75.138/sat/tv421
+MoMo综合台[1280*720],rtmp://59.124.75.138/sat/tv761
+纬来育乐台[1280*720],rtmp://59.124.75.138/sat/tv701
+纬来日本台[1280*720],rtmp://59.124.75.138/sat/tv771
+民视[1280*720],rtmp://59.124.75.157/sat/tv051
+台视[1280*720],rtmp://59.124.75.157/sat/tv071
+中视[1280*720],rtmp://59.124.75.157/sat/tv091
+华视[1280*720],rtmp://59.124.75.157/sat/tv111
+TVBS欢乐台[1280*720],rtmp://59.124.75.157/sat/tv421
+MoMo综合台[1280*720],rtmp://59.124.75.157/sat/tv761
+纬来育乐台[1280*720],rtmp://59.124.75.157/sat/tv701
+纬来日本台[1280*720],rtmp://59.124.75.157/sat/tv771
+NHK[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
+TJB SBS[1280*720],http://ye23.win/iptv/korea2021.php?id=TJB
+CJB SBS[960*540],http://ye23.win/iptv/korea2021.php?id=CJB
+KBC SBS[1920*1080],http://ye23.win/iptv/korea2021.php?id=KBC
+SBS[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS-Plus[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S03
+SBS-Fun[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-Biz[720*400],http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS-MTV[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S09
+Ariran[720*540],http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+翡翠台(第1声道繁体)[1920*1080],http://iptv.tvfix.org/hls/jade.m3u8
+翡翠台(第2声道简体)[1920*1080],http://iptv.tvfix.org/hls/jade2.m3u8
+翡翠台海外版(粤语繁体)[1280*720],http://iptv.tvfix.org/hls/jadenhk.m3u8
+翡翠台海外版(普通话简体)[1280*720],http://iptv.tvfix.org/hls/jadenhk2.m3u8
+J2[1920*1080],http://iptv.tvfix.org/hls/j2.m3u8
+J2(第2声道)[1920*1080],http://iptv.tvfix.org/hls/j22.m3u8
+无线新闻台[1920*1080],http://iptv.tvfix.org/hls/inews.m3u8
+明珠台[1920*1080],http://iptv.tvfix.org/hls/pearl.m3u8
+明珠台(第2声道)[1920*1080],http://iptv.tvfix.org/hls/pearl2.m3u8
+无线财经资讯台[1920*1080],http://iptv.tvfix.org/hls/finance.m3u8
+无线财经资讯台(第2声道)[1920*1080],http://iptv.tvfix.org/hls/finance2.m3u8
+无线财经资讯台海外版[1920*1080],http://iptv.tvfix.org/hls/financenhk.m3u8
+TVBS亚洲台[1920*1080],http://iptv.tvfix.org/hls/tvbs.m3u8
+TVBS新闻台[1920*1080],http://iptv.tvfix.org/hls/tvbsnews.m3u8
+美亚电影台(粤语)[1920*1080],http://iptv.tvfix.org/hls/mydy.m3u8
+美亚电影台(普通话)[1920*1080],http://iptv.tvfix.org/hls/mydy2.m3u8
+天映经典(粤语)[1024*576],http://iptv.tvfix.org/hls/tyjd.m3u8
+天映经典(普通话)[1024*576],http://iptv.tvfix.org/hls/tyjd2.m3u8
+Animax[1920*1080],http://iptv.tvfix.org/hls/animax.m3u8
+Animax(第2声道)[1920*1080],http://iptv.tvfix.org/hls/animax2.m3u8
+Hands Up Channel[1920*1080],http://iptv.tvfix.org/hls/kid.m3u8
+Thrill[1024*576],http://iptv.tvfix.org/hls/thrill.m3u8
+Thrill(第2声道)[1024*576],http://iptv.tvfix.org/hls/thrill2.m3u8
+tvN[1920*1080],http://iptv.tvfix.org/hls/tvn.m3u8
+tvN(第2声道)[1920*1080],http://iptv.tvfix.org/hls/tvn.m3u8
+TVB经典台[1280*720],http://iptv.tvfix.org/hls/tvbjd.m3u8
+TVB为食台[1280*720],http://iptv.tvfix.org/hls/tvbws.m3u8
+TVB星河(粤语)[1280*720],http://iptv.tvfix.org/hls/tvbxh.m3u8
+TVB星河(普通话)[1280*720],http://iptv.tvfix.org/hls/tvbxh2.m3u8
+TVB功夫台(粤语)[1280*720],http://iptv.tvfix.org/hls/tvbkf.m3u8
+TVB功夫(普通话)[1280*720],http://iptv.tvfix.org/hls/tvbkf2.m3u8
+凤凰资讯[1920*1080],http://iptv.tvfix.org/hls/fhzx.m3u8
+凤凰中文[1920*1080],http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰电影[768*576],http://iptv.tvfix.org/hls/fhdy.m3u8
+Discovery[1920*1080],http://iptv.tvfix.org/hls/discovery.m3u8
+国家地理[1280*720],http://iptv.tvfix.org/hls/natlgeo.m3u8
+Channel V[768*576],http://iptv.tvfix.org/hls/channelv.m3u8
+星空卫视[768*576],http://iptv.tvfix.org/hls/startv.m3u8
+Star Sports[1024*576],http://iptv.tvfix.org/hls/starsports.m3u8
+
+
 🎭剧场频道,#genre#
 云上电影,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8
 僵尸剧场,http://117.148.179.165/PLTV/88888888/224/3221231742/index.m3u8

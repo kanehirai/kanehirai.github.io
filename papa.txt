@@ -431,28 +431,6 @@ IPTV大健康,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
 
-🇹🇼台湾新闻,#genre#
-寰宇新闻台,https://ssttvv1.6zxr.xyz/fhwszw/index.m3u8
-华视新闻台,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
-三立新闻台,https://ssttvv1.6zxr.xyz/twtv/index.m3u8
-东森新闻台,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8
-民视新闻台,https://ssttvv1.6zxr.xyz/fhwszx/index.m3u8
-中天新闻台,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
-TVBS新闻,http://51.79.193.109:8080/hlsok/ea10c602/index.m3u8
-东森新闻,http://51.79.193.109:8080/hlsok/1ecdeb5a/index.m3u8
-三立新闻,http://51.79.193.109:8080/hlsok/0ebc9684/index.m3u8
-非凡新闻,http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
-民视新闻,http://51.79.193.109:8080/hlsok/ced345d4/index.m3u8
-中视新闻,http://51.79.193.109:8080/hlsok/66836176/index.m3u8
-台视新闻,http://51.79.193.109:8080/hlsok/c23f3737/index.m3u8
-华视新闻,http://51.79.193.109:8080/hlsok/091887ce/index.m3u8
-壹新聞,http://51.79.193.109:8080/hlsok/cc4d59da/index.m3u8
-年代新聞,http://51.79.193.109:8080/hlsok/3abbaa2d/index.m3u8
-東森財經,http://51.79.193.109:8080/hlsok/7a3a85b7/index.m3u8
-中天新闻,http://51.79.193.109:8080/hlsok/565046de1/index.m3u8
-非凡新聞,http://51.79.193.109:8080/hlsok/2187f64b/index.m3u8
-寰宇新闻,http://51.79.193.109:8080/hlsok/1fb0838b/index.m3u8
-
 🇹🇼台湾频道,#genre#
 4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
 5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
@@ -505,56 +483,22 @@ TVBS新闻,http://51.79.193.109:8080/hlsok/ea10c602/index.m3u8
 206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
 凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-凤凰电影台,http://live.scuec.edu.cn:8080/hls/fhdy.m3u8#http://iptv.tvfix.org/hls/fhdy.m3u8
 大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
 NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
-CCM天映经典,http://iptv.tvfix.org/hls/tyjd2.m3u8
-翡翠台,http://iptv.tvfix.org/hls/jade.m3u8
-明珠台,http://astream.apk1088.com:18888/channel.php?id=1351_1500&/PLTV/hls.smil.m3u8
-经典台,http://iptv.tvfix.org:80/hls/tvbjd.m3u8
-广东翡翠,http://astream.apk1088.com:18888/channel.php?id=1350_1500&/PLTV/hls.smil.m3u8#http://103.140.229.13/gudou.php?id=1350_4500
-无线新闻,http://61.222.202.191:80/live/yzyh.php?id=12
-无线财经,http://iptv.tvfix.org/hls/finance.m3u8
-星河频道,http://iptv.tvfix.org/hls/tvbxh2.m3u8
-武功频道,http://iptv.tvfix.org/hls/tvbkf.m3u8
-J2,http://dllb.jxin122.top/jj.php?id=74&p=0&c=3&key=ced06b227baa54c961d63cc2c09dbc52
-C+,http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/01.m3u8
-CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-HBO综合,http://50.7.61.148:30080/Entry/hbo
-中视,rtmp://59.124.75.138:1935/sat/tv091#rtmp://219.80.97.35/sat/tv091
-华视,rtmp://59.124.75.138:1935/sat/tv111#rtmp://219.80.97.35/sat/tv111
-台视,rtmp://59.124.75.138:1935/sat/tv071#rtmp://219.80.97.35/sat/tv071
-民视,rtmp://59.124.75.138:1935/sat/tv051#rtmp://219.80.97.35/sat/tv051
-中天新闻,https://tv1.6zxr.xyz/1/ztxw/hls/index.m3u8#http://iptv.tvfix.org/hls/ztxw.m3u8
-中视新闻,http://61.222.202.191:80/live/yzyh.php?id=138
-莲花卫视,http://nettvpro.live/hls/lotustv.php
 TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551#rtmp://219.80.97.35/sat/tv551
-TVBS欢乐台,rtmp://59.124.75.138:1935/sat/tv421#rtmp://219.80.97.35/sat/tv421
-环宇新闻,http://59.125.101.187:8528/1.m3u8#http://59.125.101.187:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8
-有线新闻,http://140.238.51.187:8080/hls/03/index.m3u8
 有线18台,rtmp://59.124.75.138:1935/sat/hk041#rtmp://219.80.97.35/sat/hk041
-日奔富士,https://fujitv1.mov3.co/hls/fujitv.m3u8
 好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 纬来育乐,rtmp://59.124.75.138:1935/sat/tv701#rtmp://219.80.97.35/sat/tv701
 纬来体育,rtmp://59.124.75.138:1935/sat/tv721#rtmp://219.80.97.35/sat/tv721
 纬来日本,rtmp://59.124.75.138:1935/sat/tv771#rtmp://219.80.97.35/sat/tv771
 原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-探索频道,http://iptv.tvfix.org/hls/discovery.m3u8
-国家地理,http://iptv.tvfix.org/hls/natlgeo.m3u8
-地理野生,http://61.222.202.191:80/live/yzyh.php?id=121#https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-亚洲旅游,http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8
-东森电影,http://61.222.202.191:80/live/yzyh.php?id=98
 东森财经,rtmp://59.124.75.138:1935/sat/tv571#rtmp://219.80.97.35/sat/tv571
 东森超视,rtmp://59.124.75.138:1935/sat/tv331#rtmp://219.80.97.35/sat/tv331
-东森呦呦,http://61.222.202.191:80/live/yzyh.php?id=54
-陌陌综合,rtmp://59.124.75.138:1935/sat/tv761#rtmp://219.80.97.35/sat/tv761
-美亚电影,http://61.222.202.191:80/live/yzyh.php?id=110
+MOMO综合,rtmp://59.124.75.138:1935/sat/tv761#rtmp://219.80.97.35/sat/tv761
 ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731#rtmp://219.80.97.35/sat/tv731
 ELEVEN2,rtmp://219.80.97.35/sat/tv741#rtmp://59.124.75.138:1935/sat/tv741
-NHK综合频道,https://nhk1.mov3.co/hls/nhk.m3u8
 CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 
 🎭剧场频道,#genre#

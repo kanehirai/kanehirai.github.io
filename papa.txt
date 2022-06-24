@@ -1,4 +1,111 @@
-﻿🇨🇳卫视高清,#genre#
+🇹🇼台湾频道,#genre#
+4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
+5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
+6民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
+9大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
+10中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
+12華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
+13三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
+14客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
+21新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+23ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
+30LiveABC互動英語頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+32ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+42MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
+49東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
+50鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
+51東森新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
+52華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
+53民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
+54三立財經新聞iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
+55TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
+56東森財經新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
+57中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
+58中天新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
+62SBN全球財經台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
+69東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
+70民視綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
+71豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
+76中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
+105智林體育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
+106時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
+111民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
+112滾動力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
+113亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
+120愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
+121LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
+123中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
+125公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
+126民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
+137金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
+160好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
+164人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
+170半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
+171VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
+173DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
+201經典電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
+202經典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
+204精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
+205華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
+206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
+凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
+凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
+FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551#rtmp://219.80.97.35/sat/tv551
+有线18台,rtmp://59.124.75.138:1935/sat/hk041#rtmp://219.80.97.35/sat/hk041
+好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+纬来育乐,rtmp://59.124.75.138:1935/sat/tv701#rtmp://219.80.97.35/sat/tv701
+纬来体育,rtmp://59.124.75.138:1935/sat/tv721#rtmp://219.80.97.35/sat/tv721
+纬来日本,rtmp://59.124.75.138:1935/sat/tv771#rtmp://219.80.97.35/sat/tv771
+原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
+东森财经,rtmp://59.124.75.138:1935/sat/tv571#rtmp://219.80.97.35/sat/tv571
+东森超视,rtmp://59.124.75.138:1935/sat/tv331#rtmp://219.80.97.35/sat/tv331
+MOMO综合,rtmp://59.124.75.138:1935/sat/tv761#rtmp://219.80.97.35/sat/tv761
+ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731#rtmp://219.80.97.35/sat/tv731
+ELEVEN2,rtmp://219.80.97.35/sat/tv741#rtmp://59.124.75.138:1935/sat/tv741
+CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
+原住民频道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+民视[1280*720],rtmp://59.124.75.138/sat/tv051
+台视[1280*720],rtmp://59.124.75.138/sat/tv071
+中视[1280*720],rtmp://59.124.75.138/sat/tv091
+华视[1280*720],rtmp://59.124.75.138/sat/tv111
+TVBS欢乐台[1280*720],rtmp://59.124.75.138/sat/tv421
+MoMo综合台[1280*720],rtmp://59.124.75.138/sat/tv761
+纬来育乐台[1280*720],rtmp://59.124.75.138/sat/tv701
+纬来日本台[1280*720],rtmp://59.124.75.138/sat/tv771
+
+韓國,#genre#
+Good T[1920*1080],http://ye23.win/iptv/korea2021.php?id=Good
+cpb[720*404],http://ye23.win/iptv/korea2021.php?id=cpbc
+bbst[1920*1080],http://ye23.win/iptv/korea2021.php?id=bbstv
+MT[720*480],http://ye23.win/iptv/korea2021.php?id=MTN
+FT[640*360],http://ye23.win/iptv/korea2021.php?id=FTV
+Channel[1280*720],http://ye23.win/iptv/korea2021.php?id=Channela
+Channel[1280*720],http://ye23.win/iptv/korea2021.php?id=Channel
+TB[1280*720],http://ye23.win/iptv/korea2021.php?id=TBS-a
+KCT[1280*720],http://ye23.win/iptv/korea2021.php?id=KCTV
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS1
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS2
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBSi
+EBS+[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_2
+EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_E
+EBS KID[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
+dem[1920*1080],http://ye23.win/iptv/korea2021.php?id=dema
+TJB SBS[1280*720],http://ye23.win/iptv/korea2021.php?id=TJB
+CJB SBS[960*540],http://ye23.win/iptv/korea2021.php?id=CJB
+KBC SBS[1920*1080],http://ye23.win/iptv/korea2021.php?id=KBC
+SBS[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S01
+SBS-Plus[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S03
+SBS-Fun[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S04
+SBS-Golf[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S05
+SBS-Biz[720*400],http://ye23.win/iptv/sbs5.1.php?id=S06
+SBS-MTV[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S09
+Ariran[720*540],http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
+
+🇨🇳卫视高清,#genre#
 北京卫视,http://pull.brtvcloud.com:80/brtv8kapptv/brtv8kappweishi.m3u8?$全网超清1080P
 北京卫视,rtsp://221.203.83.35/PLTV/88888888/224/3221226469/10000100000000060000000000133834_0.smil?$联通超清1080P
 北京卫视,http://39.134.65.175/PLTV/88888888/224/3221225678/index.m3u8?$移动蓝光1080P
@@ -430,177 +537,6 @@ IPTV大健康,http://39.134.134.88/otttv.bj.chinamobile.com/PLTV/88888888/224/32
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 爱自然4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 爱上4K,http://39.134.18.82/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8
-
-🇹🇼台湾频道,#genre#
-4民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1
-5民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2
-6民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3
-9大愛電視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209
-10中視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4
-12華視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6
-13三立綜合台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169
-14客家電視台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107
-21新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
-23ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
-30LiveABC互動英語頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-32ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
-42MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
-49東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
-50鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
-51東森新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234
-52華視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34
-53民視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31
-54三立財經新聞iNEWS,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229
-55TVBS新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129
-56東森財經新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211
-57中視新聞,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33
-58中天新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30
-62SBN全球財經台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224
-69東森購物二台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174
-70民視綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16
-71豬哥亮歌廳秀,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113
-76中天全民最大黨,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248
-105智林體育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58
-106時尚運動X,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69
-111民視旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61
-112滾動力rollor,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249
-113亞洲旅遊台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250
-120愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
-121LUXE TV Channel,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175
-123中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
-125公視戲劇,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7
-126民視影劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24
-137金光布袋戲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236
-160好消息2台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8
-164人間衛視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210
-170半島國際新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85
-171VOA美國之音,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86
-173DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226
-201經典電影台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201
-202經典卡通台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202
-204精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
-205華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
-206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-凤凰中文台,http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/1.m3u8#http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰资讯台,http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/1.m3u8#http://iptv.tvfix.org/hls/fhzx.m3u8
-大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱二台,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net:443/8thz5iufork8wjip/playlist.m3u8
-FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-TVBS新闻台,rtmp://59.124.75.138:1935/sat/tv551#rtmp://219.80.97.35/sat/tv551
-有线18台,rtmp://59.124.75.138:1935/sat/hk041#rtmp://219.80.97.35/sat/hk041
-好消息综合台,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
-纬来育乐,rtmp://59.124.75.138:1935/sat/tv701#rtmp://219.80.97.35/sat/tv701
-纬来体育,rtmp://59.124.75.138:1935/sat/tv721#rtmp://219.80.97.35/sat/tv721
-纬来日本,rtmp://59.124.75.138:1935/sat/tv771#rtmp://219.80.97.35/sat/tv771
-原住民族,http://streamipcf.akamaized.net/live/_definst_/live_720/chunklist_b1500.m3u8
-东森财经,rtmp://59.124.75.138:1935/sat/tv571#rtmp://219.80.97.35/sat/tv571
-东森超视,rtmp://59.124.75.138:1935/sat/tv331#rtmp://219.80.97.35/sat/tv331
-MOMO综合,rtmp://59.124.75.138:1935/sat/tv761#rtmp://219.80.97.35/sat/tv761
-ELEVEN1,rtmp://59.124.75.138:1935/sat/tv731#rtmp://219.80.97.35/sat/tv731
-ELEVEN2,rtmp://219.80.97.35/sat/tv741#rtmp://59.124.75.138:1935/sat/tv741
-CNN新闻频道,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
-
-杂项,#genre#
-Good T[1920*1080],http://ye23.win/iptv/korea2021.php?id=Good
-cpb[720*404],http://ye23.win/iptv/korea2021.php?id=cpbc
-bbst[1920*1080],http://ye23.win/iptv/korea2021.php?id=bbstv
-MT[720*480],http://ye23.win/iptv/korea2021.php?id=MTN
-FT[640*360],http://ye23.win/iptv/korea2021.php?id=FTV
-Channel[1280*720],http://ye23.win/iptv/korea2021.php?id=Channela
-Channel[1280*720],http://ye23.win/iptv/korea2021.php?id=Channel
-TB[1280*720],http://ye23.win/iptv/korea2021.php?id=TBS-a
-KCT[1280*720],http://ye23.win/iptv/korea2021.php?id=KCTV
-EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS1
-EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS2
-EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBSi
-EBS+[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_2
-EBS[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_E
-EBS KID[640*360],http://ye23.win/iptv/korea2021.php?id=EBS_KIDS
-dem[1920*1080],http://ye23.win/iptv/korea2021.php?id=dema
-wakuwaku[1920*1080],http://59.125.101.187:8538/http/60.251.39.91:8081/hls/61/803/ch03.m3u8
-东森幼幼台[1920*1080],http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
-三立都会台[1920*1080],http://59.125.101.187:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
-龙华日韩台[1920*1080],http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-龙华卡通[1920*1080],http://59.125.101.187:8528/http/59.120.8.187:8066/hls/210/10013/cstv13.m3u8
-CNBCHongKong[1920*1080],http://59.125.101.187:8550/http/116.50.42.19:8078/hls/24/80/cnbc90.m3u8
-wakuwaku[1920*1080],http://59.125.101.187:8538/http/192.168.77.24:8081/hls/61/803/ch03.m3u8
-东森幼幼台[1920*1080],http://59.125.101.187:8515/http/192.168.77.24:8088/hls/63/805/ch09.m3u8
-三立都会台[1920*1080],http://59.125.101.187:8522/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
-龙华日韩台[1920*1080],http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8
-龙华卡通[1920*1080],http://59.125.101.187:8528/http/192.168.77.24:8066/hls/210/10013/cstv13.m3u8
-中天娱乐台[1920*1080],http://60.250.91.85:8585/.m3u8
-TLC旅游生活频道[1920*1080],http://60.250.91.85:8589/.m3u8
-CINEMAX[1920*1080],http://60.250.91.85:8590/.m3u8
-Discovery[1920*1080],http://60.250.91.85:8588/.m3u8
-原住民频道[1280*720],http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-民视[1280*720],rtmp://59.124.75.138/sat/tv051
-台视[1280*720],rtmp://59.124.75.138/sat/tv071
-中视[1280*720],rtmp://59.124.75.138/sat/tv091
-华视[1280*720],rtmp://59.124.75.138/sat/tv111
-TVBS欢乐台[1280*720],rtmp://59.124.75.138/sat/tv421
-MoMo综合台[1280*720],rtmp://59.124.75.138/sat/tv761
-纬来育乐台[1280*720],rtmp://59.124.75.138/sat/tv701
-纬来日本台[1280*720],rtmp://59.124.75.138/sat/tv771
-民视[1280*720],rtmp://59.124.75.157/sat/tv051
-台视[1280*720],rtmp://59.124.75.157/sat/tv071
-中视[1280*720],rtmp://59.124.75.157/sat/tv091
-华视[1280*720],rtmp://59.124.75.157/sat/tv111
-TVBS欢乐台[1280*720],rtmp://59.124.75.157/sat/tv421
-MoMo综合台[1280*720],rtmp://59.124.75.157/sat/tv761
-纬来育乐台[1280*720],rtmp://59.124.75.157/sat/tv701
-纬来日本台[1280*720],rtmp://59.124.75.157/sat/tv771
-NHK[1920*1080],http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8
-TJB SBS[1280*720],http://ye23.win/iptv/korea2021.php?id=TJB
-CJB SBS[960*540],http://ye23.win/iptv/korea2021.php?id=CJB
-KBC SBS[1920*1080],http://ye23.win/iptv/korea2021.php?id=KBC
-SBS[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S01
-SBS-Plus[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S03
-SBS-Fun[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S04
-SBS-Golf[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S05
-SBS-Biz[720*400],http://ye23.win/iptv/sbs5.1.php?id=S06
-SBS-MTV[1280*720],http://ye23.win/iptv/sbs5.1.php?id=S09
-Ariran[720*540],http://58.99.33.16:1935/liveedge17/live_158_3.stream/chunklist.m3u8
-翡翠台(第1声道繁体)[1920*1080],http://iptv.tvfix.org/hls/jade.m3u8
-翡翠台(第2声道简体)[1920*1080],http://iptv.tvfix.org/hls/jade2.m3u8
-翡翠台海外版(粤语繁体)[1280*720],http://iptv.tvfix.org/hls/jadenhk.m3u8
-翡翠台海外版(普通话简体)[1280*720],http://iptv.tvfix.org/hls/jadenhk2.m3u8
-J2[1920*1080],http://iptv.tvfix.org/hls/j2.m3u8
-J2(第2声道)[1920*1080],http://iptv.tvfix.org/hls/j22.m3u8
-无线新闻台[1920*1080],http://iptv.tvfix.org/hls/inews.m3u8
-明珠台[1920*1080],http://iptv.tvfix.org/hls/pearl.m3u8
-明珠台(第2声道)[1920*1080],http://iptv.tvfix.org/hls/pearl2.m3u8
-无线财经资讯台[1920*1080],http://iptv.tvfix.org/hls/finance.m3u8
-无线财经资讯台(第2声道)[1920*1080],http://iptv.tvfix.org/hls/finance2.m3u8
-无线财经资讯台海外版[1920*1080],http://iptv.tvfix.org/hls/financenhk.m3u8
-TVBS亚洲台[1920*1080],http://iptv.tvfix.org/hls/tvbs.m3u8
-TVBS新闻台[1920*1080],http://iptv.tvfix.org/hls/tvbsnews.m3u8
-美亚电影台(粤语)[1920*1080],http://iptv.tvfix.org/hls/mydy.m3u8
-美亚电影台(普通话)[1920*1080],http://iptv.tvfix.org/hls/mydy2.m3u8
-天映经典(粤语)[1024*576],http://iptv.tvfix.org/hls/tyjd.m3u8
-天映经典(普通话)[1024*576],http://iptv.tvfix.org/hls/tyjd2.m3u8
-Animax[1920*1080],http://iptv.tvfix.org/hls/animax.m3u8
-Animax(第2声道)[1920*1080],http://iptv.tvfix.org/hls/animax2.m3u8
-Hands Up Channel[1920*1080],http://iptv.tvfix.org/hls/kid.m3u8
-Thrill[1024*576],http://iptv.tvfix.org/hls/thrill.m3u8
-Thrill(第2声道)[1024*576],http://iptv.tvfix.org/hls/thrill2.m3u8
-tvN[1920*1080],http://iptv.tvfix.org/hls/tvn.m3u8
-tvN(第2声道)[1920*1080],http://iptv.tvfix.org/hls/tvn.m3u8
-TVB经典台[1280*720],http://iptv.tvfix.org/hls/tvbjd.m3u8
-TVB为食台[1280*720],http://iptv.tvfix.org/hls/tvbws.m3u8
-TVB星河(粤语)[1280*720],http://iptv.tvfix.org/hls/tvbxh.m3u8
-TVB星河(普通话)[1280*720],http://iptv.tvfix.org/hls/tvbxh2.m3u8
-TVB功夫台(粤语)[1280*720],http://iptv.tvfix.org/hls/tvbkf.m3u8
-TVB功夫(普通话)[1280*720],http://iptv.tvfix.org/hls/tvbkf2.m3u8
-凤凰资讯[1920*1080],http://iptv.tvfix.org/hls/fhzx.m3u8
-凤凰中文[1920*1080],http://iptv.tvfix.org/hls/fhzw.m3u8
-凤凰电影[768*576],http://iptv.tvfix.org/hls/fhdy.m3u8
-Discovery[1920*1080],http://iptv.tvfix.org/hls/discovery.m3u8
-国家地理[1280*720],http://iptv.tvfix.org/hls/natlgeo.m3u8
-Channel V[768*576],http://iptv.tvfix.org/hls/channelv.m3u8
-星空卫视[768*576],http://iptv.tvfix.org/hls/startv.m3u8
-Star Sports[1024*576],http://iptv.tvfix.org/hls/starsports.m3u8
-
 
 🎭剧场频道,#genre#
 云上电影,http://117.148.179.176/PLTV/88888888/224/3221231565/index.m3u8

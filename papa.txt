@@ -48,7 +48,7 @@
 204精選動漫台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204
 205華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 206華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
-59,#genre#
+頻段59,#genre#
 卫视电影台，http://59.125.122.90:18529/.m3u8
 GTV八大综合台，http://59.125.122.90:18517/.m3u8
 GTV八大第1台，http://59.125.122.90:18539/.m3u8
@@ -57,7 +57,7 @@ GTV八大第1台,http://60.251.33.252:18539/.m3u8
 东森戏剧台,http://60.251.33.252:18538/.m3u8
 卫视中文台，http://59.125.122.90:18522/.m3u8
 卫视中文台,http://60.251.33.252:18522/.m3u8
-218,#genre#
+頻段218,#genre#
 1.龍華電影台,http://218.32.47.179:18556/http/192.168.1.9:8066/hls/210/10014/cstv14.m3u8
 2.中天娛樂FHD,http://218.32.47.179:18527/http/192.168.1.9:8081/hls/67/809/ch26.m3u8
 3.AXN,http://218.32.47.179:18558/http/192.168.1.9:8081/hls/71/813/ch43.m3u8

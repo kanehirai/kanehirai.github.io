@@ -31,14 +31,9 @@
 30.MUCH TV,http://218.32.47.179:18529/http/192.168.1.9:8081/hls/72/814/ch45.m3u8
 31.龍華戲劇台,http://218.32.47.179:8534/http/192.168.1.9:8066/hls/210/10010/cstv10.m3u8
 32.人間衛視,http://218.32.47.179:8506/http/192.168.1.9:8081/hls/69/811/ch36.m3u8
-
-
-
-
 香港Cogent,#genre#
 翡翠台,http://50.7.168.234:8278/jade_twn/playlist.m3u8?tid=m51e8c5582227&ct=18336&tsum=d0987332bec9b0fecc98b9b9ff3ddeac
- 翡翠台,http://23.237.10.66:16106
-
+翡翠台,http://23.237.10.66:16106
 tvb剧场,http://hms563nc1880172786.live.aikan.miguvideo.com/wh7f454c46tw3279865347_1298155843/PLTV/88888888/224/3221231733/1.m3u8 
 J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 J2,http://120.84.96.195:808/hls/86/index.m3u8 
@@ -74,7 +69,6 @@ J2,http://120.84.96.222:808/hls/86/index.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8 
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
-
 凤凰资讯,http://198.16.64.10:8278/phoenixinfo_hd/playlist.m3u8?tid=MC1C1591244615912446&ct=19225&tsum=a4fd6441d252c98ea603b13ef749a84e
 翡翠台,http://198.16.64.10:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
 RTHK32,http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MBCB4455322944553229&ct=19226&tsum=60bac13753ada5abc8873783d6611ebd
@@ -250,13 +244,7 @@ TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-
-
-
-
 测试1,#genre#
-
 凤凰中文,http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8 
@@ -279,9 +267,6 @@ V音乐,http://113.64.147.96:808/hls/88/index.m3u8
 求索生活,http://111.12.110.95:6610/000000001001/6000000002000003382/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000002000003382
 求索纪录,http://111.12.110.95:6610/000000001001/6000000002000032052/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000002000032052
 求索动物,http://111.12.110.95:6610/000000001001/6000000002000010046/1.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000002000010046
-
-
- 
 测试2,#genre#
 台视,http://23.237.10.66:16344 
 民视,http://23.237.10.66:16334
@@ -428,10 +413,7 @@ One,http://198.16.64.10:8278/One/playlist.m3u8?tid=MB4B6226023862260238&ct=19225
 TLC,http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
 WWE,http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225&tsum=8840b20a73441662838a72c53f7889d8
 Warner TV,http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede
- 
 测试3,#genre#
-
-
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8 
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8 
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8 
